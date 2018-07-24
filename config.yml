@@ -3,6 +3,8 @@ envs:
   - key: TEST_ENV
     value: testtttt
 cmds:
+  - key: see
+    value: pwd
   - key: build
     value: ./build.sh
 out_dir: output
