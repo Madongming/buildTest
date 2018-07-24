@@ -3,6 +3,8 @@ envs:
   - key: TEST_ENV
     value: testtttt
 cmds:
+  - key: who
+    value: id
   - key: see
     value: pwd
   - key: build
