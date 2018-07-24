@@ -1,0 +1,4 @@
+---
+cmds:
+  - build: ./build.sh
+out_dir: output
