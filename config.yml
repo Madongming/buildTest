@@ -1,4 +1,8 @@
 ---
+envs:
+  - key: TEST_ENV
+    value: testtttt
 cmds:
-  - build: ./build.sh
+  - key: build
+    value: ./build.sh
 out_dir: output
