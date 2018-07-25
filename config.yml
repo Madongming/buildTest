@@ -4,9 +4,9 @@ envs:
     value: testtttt
 cmds:
   - name: who
-    value: id
+    cmd: id
   - name: see
-    value: pwd
+    cmd: pwd
   - name: build
-    value: ./build.sh
+    cmd: ./build.sh
 out_dir: output
