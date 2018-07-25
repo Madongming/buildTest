@@ -1,12 +1,12 @@
 ---
 envs:
-  - key: TEST_ENV
+  - name: TEST_ENV
     value: testtttt
 cmds:
-  - key: who
+  - name: who
     value: id
-  - key: see
+  - name: see
     value: pwd
-  - key: build
+  - name: build
     value: ./build.sh
 out_dir: output
