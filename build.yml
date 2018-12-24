@@ -3,7 +3,7 @@ envs:
   - name: TEST_ENV
     value: testtttt
 cmds:
-  - name: who
+  - name: whoami
     cmd: id
   - name: see
     cmd: pwd
