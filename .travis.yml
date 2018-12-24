@@ -1,2 +1,6 @@
 language: go
 os: linux
+go:
+  - master
+install:
+  - ./build.sh
